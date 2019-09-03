@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">週末はどこへいこう？</string>
+    <string name="bowling"></string>
+    <string name="deced_btn">外出先を決める</string>
+    <string name="addItem">外出先名を入力</string>
+    <string name="addItemBtn">追加ボタン</string>
+
+</resources>
